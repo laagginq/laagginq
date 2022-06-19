@@ -1,1 +1,1 @@
-i suck at making things
+discord is Nuts#1000 and Nuts#0710
