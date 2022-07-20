@@ -15,4 +15,4 @@ Languages; lua, luau, C#, C++
 
 i love cats and my gf
 
-![esecz](https://cdn.discordapp.com/attachments/999119150402244620/999428997643513886/ezgif.com-gif-maker_13.gif)
+![esecz](https://user-images.githubusercontent.com/95953670/180086588-cf258f0d-b5ba-493a-96a1-cebb1fc04cc9.gif)
