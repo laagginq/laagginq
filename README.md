@@ -1,18 +1,10 @@
-# laagginq
-Aka; Nuts, daddyK, laagginq, NotLaggingg, fl3ms, SwipingFraud, xz
-
-
-
-Discord; 894608863289036881, 533742475370823680, 997242149026414613
-
-Server; .gg/informant, .gg/sylum 
-
-Website; [fraud.ga (renamed)](http://fraud.ga), [aimware.info (discontinued)](http://aimware.info), [informant.wtf](http://informant.wtf)
-
-Languages; lua, luau, C#, C++
-
-07/10/2021
-
-i love cats
-
-![esecz](https://user-images.githubusercontent.com/95953670/180086588-cf258f0d-b5ba-493a-96a1-cebb1fc04cc9.gif)
+<h1 align = "center">
+  laagginq (xz)
+</h1>
+<p align = "center">
+  <img src="https://cdn.discordapp.com/attachments/894674689291616339/999428847084785694/ezgif-1-78130e35b9.gif" width="100">
+</p>
+<h3 align = "center">Aka; Nuts, daddyK, laagginq, NotLaggingg, fl3ms, SwipingFraud, xz</h1>
+<h3 align = "center">Discord; 894608863289036881, 533742475370823680, 997242149026414613</h1>
+<h3 align = "center">Server; .gg/informant, .gg/sylum</h1>
+<h3 align = "center">Languages; lua, luau, C#, C++</h1>
