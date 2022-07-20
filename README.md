@@ -12,3 +12,5 @@ Website; [fraud.ga (renamed)](http://fraud.ga), [aimware.info (discontinued)](ht
 i made roblox condos, scripts, game cheats, and roblox games 😎
 
 07/10/2021
+
+i love gatos and my gf
