@@ -1,1 +1,3 @@
-discord is Nuts#1000 and Nuts#0710
+Discord; 894608863289036881, 533742475370823680, 997242149026414613
+Server; .gg/informant, .gg/sylum
+Website; [fraud.ga (renamed)](http://fraud.ga), [aimware.info (discontinued)](http://aimware.info), [informant.wtf](http://informant.wtf)
