@@ -13,4 +13,4 @@ i made roblox condos, scripts, game cheats, and roblox games 😎
 
 07/10/2021
 
-i love gatos and my gf
+i love cats and my gf
