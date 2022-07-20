@@ -13,6 +13,6 @@ Languages; lua, luau, C#, C++
 
 07/10/2021
 
-i love cats and my gf
+i love cats
 
 ![esecz](https://user-images.githubusercontent.com/95953670/180086588-cf258f0d-b5ba-493a-96a1-cebb1fc04cc9.gif)
