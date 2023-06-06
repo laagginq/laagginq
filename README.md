@@ -10,6 +10,6 @@
 <h3 align = "center">Server; .gg/informant, .gg/sylum</h1>
 <h3 align = "center">Languages; lua, luau, C#, C++</h1>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=laagginq&show_icons=true&count_private=true&theme=dark)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=laagginq&show_icons=true&count_private=true&theme=dark)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
+
