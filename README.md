@@ -9,3 +9,7 @@
 <h3 align = "center">Website;  https://informant.wtf/, https://aimware.info/</h1>
 <h3 align = "center">Server; .gg/informant, .gg/sylum</h1>
 <h3 align = "center">Languages; lua, luau, C#, C++</h1>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=NotDSF&show_icons=true&count_private=true&theme=dark)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotDSF&hide=css&layout=compact&theme=dark)]()
