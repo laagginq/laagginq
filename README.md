@@ -12,8 +12,3 @@
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=laagginq&show_icons=true&count_private=true&theme=dark)]()
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
-
-
-Col 1 | Col2 | Col3
-:-- | :-: | --:
-Ugh this is so ugly | make it | stop
