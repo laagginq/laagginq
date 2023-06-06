@@ -14,5 +14,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
 
 
-Your computer crashed? Try sending a
-<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
+Col 1 | Col2 | Col3
+:-- | :-: | --:
+Ugh this is so ugly | make it | stop
