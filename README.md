@@ -2,7 +2,7 @@
   laagginq (xz)
 </h1>
 <h3 align = "center">Discord; 1141161072536076389</h1>
-<h3 align = "center">Website;  https://dahood.xyz/, https://uraskid.xyz//</h1>
+<h3 align = "center">Website;  https://cybercriminal.bio/1</h1>
 <h3 align = "center">Server; .gg/camlock</h1>
 <h3 align = "center">Languages; lua, luau, python, javascript</h1>
 
