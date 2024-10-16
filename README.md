@@ -2,7 +2,7 @@
   swipingfraud (xz)
 </h1>
 <h3 align = "center">Discord; 1141161072536076389</h1>
-<h3 align = "center">Website;  https://cybercriminal.bio/1</h1>
+<h3 align = "center">Website;  https://cybercriminal.bio/</h1>
 <h3 align = "center">Owner @; Alysum</h1>
 <h3 align = "center">Developer @; Obese.vip</h1>
 <h3 align = "center">Developer @; Essence</h1>
