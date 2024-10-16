@@ -8,7 +8,9 @@
 <h3 align = "center">Developer @; Essence</h1>
 <h3 align = "center">Languages; luau, python</h1>
 
+<center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
+  [![Stats](https://github-readme-stats.vercel.app/api?username=laagginq&show_icons=true&count_private=true&theme=dark)]()
+</center>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=laagginq&show_icons=true&count_private=true&theme=dark)]()
